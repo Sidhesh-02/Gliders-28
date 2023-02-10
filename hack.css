@@ -1,0 +1,198 @@
+#title{
+    padding: 1px ;
+    padding-bottom: 0px;
+    background-color: black;
+    width: 100%;
+    height: 50%;
+    position: relative;
+  
+    
+}
+
+.navbar{
+    background-color: black;
+     /* border-radius: 50px;  */
+    width: 100% ;
+    height: 45px;
+    /* align-items: center; */
+    position: relative;
+    /* left:0px; */
+    right: 8px;
+    z-index : 3;
+} 
+
+.navbar-brand{
+    font-size: 28px;
+    position: absolute;
+    left: 100px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.nav-link{
+    font-size: 28px;
+    color: #D29D63;
+    position: relative;
+    right: 100px;
+    margin: auto 30px;
+    font-family: 'Cormorant Garamond', serif;
+
+}
+
+h2{
+    
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+}
+
+h1{
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.nav-item{
+    position: relative;
+    right: 150px;
+}
+
+.dropdown{
+    background-color: black;
+    position: absolute;
+    width: 40px;
+    right: 150px;
+    margin: 10px;
+    font-size:28px ;
+}
+
+.dropdown-item{
+    background-color: black;
+    font-size: 20px;
+    color: #D29D63;
+}
+
+.collapse{
+    position: relative;
+    z-index: 2;
+}
+
+.container-fluid{
+   height: 450px;
+   padding: 0px;
+}
+
+.canva-sec{
+    
+    width: 250px;
+    position: absolute;
+    right: 350px;
+    padding: 0px;
+    margin: 20px;
+    bottom: 0px;
+    top:10px;
+    z-index: 1;
+}
+.canva-title{
+    color: #fff;
+    text-align: left;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 46px;
+    font-weight: 200;
+}
+
+.btn{
+    font-size: 12px;
+    background-color: #303d21 ;
+    color:#D29D63 ;
+}
+.btn:hover{
+    background-color: bisque;
+}
+
+.title-img{
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    
+}
+
+#info{
+    margin: 45px;
+}
+
+h3{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Cormorant Garamond', serif;
+}
+#info{
+    background-color: #F8EAD8;
+}
+
+body{
+    background-color: #F8EAD8;
+}
+.info-img{
+    width: 370px;
+}
+
+.card-header{
+    text-align: center;
+    justify-content: center;
+}
+.card{
+    margin: 20px;
+}
+
+.row{
+    padding: 40px;
+    position: relative;
+    right:50px;
+}
+
+p{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Cormorant Garamond', serif; 
+    line-height: 1.5;
+}
+
+/* .footer-img{
+    width: 1520px;
+    opacity: 0.5;
+    position: relative;
+    
+    z-index: -1;
+} */
+#footer{
+    text-align: center;
+    background-color: black;
+    margin:auto 25px;
+}
+.inner{
+    padding: 50px 200px 30px 200px;
+    color:#fff;
+}
+.social{
+    padding: 50px 50px;
+    background-color: black;
+    position:relative;
+    z-index: 1;
+    width: 200px;
+    color:#fff;
+    left: 650px;
+}
+
+.fa-brands{
+     margin: 10px; 
+     display: inline-block;
+     transform: translateY(-4%);
+}
+.footchg{
+    font-size: 20px;
+    line-height:30px;
+}
+
+/* .about{
+    
+} */

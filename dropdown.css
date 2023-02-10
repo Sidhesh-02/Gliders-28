@@ -1,0 +1,42 @@
+p{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Cormorant Garamond', serif; 
+    line-height: 1.5;
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(24, 22, 22);
+}
+
+.card{
+    background-color: rgb(24, 22, 22);
+}
+
+.card-foot{
+    margin: auto 60px;
+}
+
+h1{
+    color: #D29D63;
+    font-weight: bold;
+    font-family: 'Cormorant Garamond', serif;
+}
+.card-header{
+    margin: auto 50px;
+}
+
+.card-body{
+    margin: auto 50px;
+}
+
+.title{
+    margin: auto 30px;
+}
+
+h2{
+    color: #D29D63;
+    font-weight: bold;
+    font-family: 'Cormorant Garamond', serif;
+}
